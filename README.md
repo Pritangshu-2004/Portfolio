@@ -11,6 +11,5 @@ Responsive layout for all devices
 Introduction with animated typing text (optional)
 Navigation bar to different sections (About, Projects, Skills, etc.) - Not currently implemented, but sections are prepared.
 Social media links
-Call to action button
 
 this is the link to the page here:- https://pritangshu-2004.github.io/Portfolio/
